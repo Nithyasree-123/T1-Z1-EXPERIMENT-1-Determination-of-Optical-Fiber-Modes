@@ -14,7 +14,7 @@ To study the mode characteristics of fiber optic cable and observe the lower ord
 5. Opaque Screen  
 
 ---
-
+ 
 
 ## 📚 THEORY
 
